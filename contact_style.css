@@ -9,6 +9,7 @@ body {
 	line-height: 150%;
 	font-family: "Georgia", "Times New Roman", Times, serif; 
 	color: #333333;
+	background: url(images/concrete_seamless.png);
 }
 
 h1{
@@ -32,7 +33,7 @@ h1{
 }
 
 .top {
-	background-color: #FFFFFF;
+
 	height: 90px;
 }
 
@@ -125,7 +126,7 @@ h3{
 	width: 250px;
 	background: #003366;
 	height: 160px;
-	margin-right: 160px;
+	margin-right: 167px;
 }
 
 
