@@ -1,0 +1,162 @@
+
+body {
+	margin: 10px;
+	padding: 10px;
+	background: #9a9994;
+	font-size: 18px;
+	line-height: 150%;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+	color: #333333;
+}
+
+h1{
+	background: #21287d;
+	padding: 32px 0;
+	color: #eee;
+	margin: 0;
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	float: left;
+	width: 30%
+}
+
+.top > h1 {
+		background :#21287d;
+		margin-left: 10%
+		margin:10%;
+		padding: 2%;
+		
+}
+
+.top {
+	background-color: #FFFFFF;
+	height: 90px;
+}
+
+.top div h1 {
+
+}
+
+#buttons {
+	float: right;
+    border: none;
+    color: black;
+    padding: 9px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 14px;
+    border-radius: 12px;
+    margin-top:45px;
+
+}
+
+#buttons > li{
+	display: inline;
+	padding-left: 20px
+
+
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+
+
+h2 {
+	font-size: 40px;
+    margin-bottom: 7%;
+}
+
+hr{
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    padding-top: 25px;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+
+}
+
+#main-bio {
+	width: 650px;
+	float: left;*/
+	background-color: #ccccb3;
+	padding:2%;
+	background: #999966;
+	font-size: 90%
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+#contact-info hr{
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    padding: initial;
+
+
+}
+#contact-info ul  li{
+	display: inline;
+	margin:10px;
+    padding-left: 8px;
+
+}
+
+#contact-info {
+	float: right;
+	width: 250px;
+	background: #003366;
+	height: 160px;
+	margin-right: 1px;
+}
+
+#portfolio1{
+	float: left;
+	height: 135px;
+
+}
+
+#portfolio2{
+	float: right;
+	height: 135px;
+
+}
+
+#portfolio3{
+	float: left;
+	height: 135px;
+
+}
+
+#portfolio4{
+	float: right;
+	height: 135px;
+
+}
+
+#portfolio5{
+	float: left;
+	height: 135px;
+
+}
+
+footer {
+	background: #ccc;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+}
+
+footer > p{
+	size: 12px;
+}
